@@ -1,0 +1,19 @@
+Crie um tipo abstrato de dados para manipulação da Lista Simplesmente Encadeada Circular.
+
+Atenção! A lista deve armazenar dados do tipo float.
+
+Atente para os requisitos solicitados e implemente as funcionalidades desejadas.
+
+Seu programa que deve ser capaz de ler como comandos de entrada os possíveis valores:
+-s : exibe a lista inteira
+-c : esvaziar toda a lista
+-a < valor > : inserir um novo elemento na lista com o valor especificado (a inserção segue o padrão FIFO)
+-a < valor > < posicao > : inserir um novo elemento na lista em uma posição especificada pelo parâmetro “posicao"
+-r < valor > : remover todas as ocorrências de um elemento especificado da lista
+-m : exibe o maior valor da lista
+-sl : exibe o último elemento da lista
+-sf : exibe o primeiro elemento da lista
+-ss : exibe o tamanho da lista
+-sg < valor > : exibe a quantidade de elementos da lista são maiores que o valor especificado
+
+O comando -s deve exibir a lista e encerrar o programa.
