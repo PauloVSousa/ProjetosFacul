@@ -1,0 +1,18 @@
+Implemente um tipo abstrato de dados do tipo “Pilha" chamado TPilha.
+
+Este deve manipular dados do tipo char e oferecer os seguintes serviços:
+
+Exibir todos os elementos que estão na pilha
+Esvaziar toda a pilha
+Função push
+Função pop
+Não esqueça que o último elemento que entra na pilha deverá ser o primeiro a sair (LIFO - Last in First out).
+
+Entrada e saída de dados
+Seu programa deve ler como comandos de entrada e seus respectivos valores (separados por espaços). Os comandos possíveis são:
+-s : exibe a pilha inteira
+-c : esvaziar toda a pilha
+-i : inserir (empilhar) um novo elemento na fila
+-r : remover (desempilhar) um elemento da fila
+
+Obs: após a execução do comando "-s", o programa deve ser encerrado.
