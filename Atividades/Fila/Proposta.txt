@@ -1,0 +1,18 @@
+Implemente um tipo abstrato de dados do tipo “Fila", chamado TFila.
+
+Este deve manipular dados do tipo int e oferecer os seguintes serviços:
+
+Exibir todos os elementos que estão na fila
+Esvaziar toda a fila
+Função para enfileirar
+Função para desenfileirar
+Não esqueça que o primeiro elemento que entra na fila deverá ser o primeiro a sair (FIFO - First in First out).
+
+Entrada e Saída de dados
+Seu programa deve ler como comandos de entrada e seus respectivos valores (separados por espaços). Os comandos possíveis são:
+-s : exibe a fila inteira
+-c : esvaziar toda a fila
+-i : inserir (enfileirar) um novo elemento na fila
+-r : remover (desenfileirar) um elemento da fila
+
+Obs: após a execução do comando "-s", o programa deve ser encerrado.
