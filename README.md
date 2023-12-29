@@ -1,2 +1,3 @@
 # ProjetosFacul
- Aqui se encontra desde atividades a projetos da faculdade
+
+Aqui você encontra de tudo, desde atividades até projetos da minha universidade.
